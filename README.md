@@ -13,8 +13,6 @@ Currently building projects that show off both backend engineering and frontend 
 - 🌐 [**Portfolio Website**](https://b0th3r.github.io/portfolio/)  
   React + Tailwind portfolio showcasing my work and projects.
  
-- 🏥 [**OKB Portal**](https://okbhopehub.org) *(restricted access)*  
-  Medical web app built for the OKB Hope Foundation.
 ---
 
 ## 💻 Code Repositories
