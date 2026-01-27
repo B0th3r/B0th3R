@@ -7,17 +7,20 @@ Currently building projects that show off both backend engineering and frontend 
 
 ## 🚀 Featured Projects
 
-- 🎮 [**Multiplayer Game Server**](https://arcadebob.com)  
-  Real-time game lobby with Tic-Tac-Toe, Connect Four, and Battleship.  
+- 🎮 **[Arcade Bob](https://arcadebob.com)**  
+  WebSocket-based multiplayer platform with state synchronization, and matchmaking.
 
-- 🌐 [**Portfolio Website**](https://b0th3r.github.io/portfolio/)  
+- 🕵️ **Detective Story Mode**  
+  Branching narrative game with dialogue state machines, quest system, and a custom 2D rendering pipeline.
+
+- 🌐 **[Portfolio Website](https://b0th3r.github.io/portfolio/)**  
   React + Tailwind portfolio showcasing my work and projects.
- 
+
 ---
 
 ## 💻 Code Repositories
 
-- [Multiplayer Game Server Repo](https://github.com/B0th3r/Multiplayer-Game-Server) – Node.js, Express, Socket.IO, React.  
+- [Arcade Bob](https://github.com/B0th3r/Arcade-Bob) – Node.js, Express, Socket.IO, React.  
 - [Portfolio Repo](https://github.com/B0th3r/portfolio) – React + Tailwind, deployed with GitHub Pages.  
 
 ---
