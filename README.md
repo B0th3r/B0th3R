@@ -5,16 +5,24 @@ Currently building projects that show off both backend engineering and frontend 
 
 ---
 
-## 🚀 Featured Projects
+🎮 **[Arcade Bob](https://arcadebob.com)** — A real-time multiplayer platform with a custom HTML5 Canvas 2D rendering and game framework built with WebSockets.
 
-- 🎮 **[Arcade Bob](https://arcadebob.com)**  
-  WebSocket-based multiplayer platform with state synchronization, and matchmaking.
+### 🕵️ Story Mode
+- Branching detective narrative
+- Dialogue state machine with flags, scoring, and conditional branching
+- Quest and objective system driving investigation flow
+- Multiple endings based on player decisions
 
-- 🕵️ **Detective Story Mode**  
-  Branching narrative game with dialogue state machines, quest system, and a custom 2D rendering pipeline.
+### 🌐 Multiplayer Arcade
+- Real-time multiplayer games (Tic-Tac-Toe, Connect Four, Battleship)
+- WebSocket-based lobby system and room synchronization
+- Server-validated game state with reducer-style updates
 
-- 🌐 **[Portfolio Website](https://b0th3r.github.io/portfolio/)**  
-  React + Tailwind portfolio showcasing my work and projects.
+---
+
+## 🌐 Portfolio
+- **[Portfolio Website](https://b0th3r.github.io/portfolio/)**  
+  React + Tailwind site showcasing demos and technical breakdowns.
 
 ---
 
