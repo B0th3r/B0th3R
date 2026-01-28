@@ -5,7 +5,7 @@ Currently building projects that show off both backend engineering and frontend 
 
 ---
 
-🎮 **[Arcade Bob](https://arcadebob.com)** — A real-time multiplayer platform with a custom HTML5 Canvas 2D rendering and game framework built with WebSockets.
+🎮 **[Arcade Bob](https://arcadebob.com)** — A game platform featuring a branching single-player detective story and a multiplayer arcade mode.
 
 ### 🕵️ Story Mode
 - Branching detective narrative
